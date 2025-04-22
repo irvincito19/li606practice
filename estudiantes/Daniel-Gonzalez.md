@@ -1,8 +1,8 @@
-# [Tu nombre completo]
+# Daniel Gonzalez ruiz
 ## Carrera
-[Informatica]
+Informatica
 ## Intereses en programación
-- [Programacion]
-- [Bases de Datos]
+- Programacion
+- Bases de Datos
 ## Experiencia con Git
-[He aprendido a usar git en nivel intermedio]
+He aprendido a usar git en nivel intermedio
