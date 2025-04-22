@@ -1,4 +1,8 @@
-Nombre: Irving Ulises Hernández Miguel
-Rama creada: [Nombre de tu rama]
-Enlace a tu archivo en GitHub: [Pega el enlace directo a tu archivo .md]
-Captura de pantalla: Subida en el foro
+# [Tu nombre completo]
+## Carrera
+[Tu carrera]
+## Intereses en programación
+- [Interés 1]
+- [Interés 2]
+## Experiencia con Git
+[Describe tu experiencia]
